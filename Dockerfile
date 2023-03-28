@@ -1,4 +1,4 @@
-"Dockerfile" 14L, 331C                                                                                                                                                                                                                                        1,40          All
+                                                                                                                                                                                                                                      1,40          All
 FROM registry.suse.com/bci/bci-base:15.4
 
 MAINTAINER Steve McBride
